@@ -1,3 +1,5 @@
+## Crea Tables , Add To Tables, and basic query execution -> Done
+
 # Student Database Practice Project
 
 This project is a simple Maven + SQLite project for practicing basic database functionality.
